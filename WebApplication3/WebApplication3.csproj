@@ -262,12 +262,26 @@
     <Content Include="Content\shop-cart.css" />
     <Content Include="Content\styles.css" />
     <Content Include="Content\index-tables.css" />
+    <Content Include="Content\table-style.css" />
     <Content Include="Content\thank-you.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="fonts\georgia-italic.ttf" />
+    <Content Include="fonts\lato-bold.eot" />
+    <Content Include="fonts\lato-bold.ttf" />
+    <Content Include="fonts\lato-bold.woff" />
+    <Content Include="fonts\lato-bold.woff2" />
+    <Content Include="fonts\lato-italic.eot" />
+    <Content Include="fonts\lato-italic.ttf" />
+    <Content Include="fonts\lato-italic.woff" />
+    <Content Include="fonts\lato-italic.woff2" />
+    <Content Include="fonts\lato-regular.eot" />
+    <Content Include="fonts\lato-regular.ttf" />
+    <Content Include="fonts\lato-regular.woff" />
+    <Content Include="fonts\lato-regular.woff2" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\category.js" />
     <Content Include="Scripts\db.js" />
@@ -331,6 +345,7 @@
     <Content Include="Views\Gallery\htwyog.gif" />
     <Content Include="Views\Gallery\tumblr_lze8iaWZZz1qd0twl.gif" />
     <Content Include="Views\Gallery\tumblr_m1fydpkXr51qg1mbqo15_r2_250.gif" />
+    <Content Include="Content\ThankYou.html" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

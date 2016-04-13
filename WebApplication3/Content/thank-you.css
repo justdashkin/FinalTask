@@ -206,7 +206,10 @@ nav li > a {
 
 #titles {
 
-  margin: 189px 0px 241px 293px;
+  margin-bottom: 189px;
+  margin-top: 189px;
+  margin-left: 120px;
+  margin-right: 10px;
   width: 100%;
 
 }

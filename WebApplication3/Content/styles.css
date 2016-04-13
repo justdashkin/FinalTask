@@ -204,8 +204,8 @@ nav li > a {
 /*header*/
 /*headings*/
 #headings {
-  margin-top: 124px;
-  margin-left: 104px;
+  width: 900px;
+  margin:auto;
 }
 
 #headings > h1 {
@@ -215,8 +215,9 @@ nav li > a {
 
 #headings > span {
   display: block;
-  margin-top: 15px;
-  margin-left: 27px;
+  text-align: center;
+  font-size: 20px;
+  color: gray;
 }
 
 .white-button {
@@ -265,9 +266,11 @@ nav li > a {
 }
 .photo-1 {
     background-image: url('img/photo_1.PNG');
+    background-size: 400px, 10px;
 }
 .photo-2{
     background-image: url('img/photo_2.PNG');
+    background-size: cover;
 
 }
 
